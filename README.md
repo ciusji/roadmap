@@ -8,7 +8,7 @@
 
 ## Purpose 
 
-`The purpose of these raedmaps is to give you an idea about the landspace and the guice if you are consused about what
+`The purpose of these roadmaps is to give you an idea about the landspace and the guice if you are consused about what
 to learn next and not to encourage you pick what is hip and trendy. You should grow some understanding of why one tool would
 be better suited for some cases that the other and remember hip and trendy never means best suited for the job.`
 
